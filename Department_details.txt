@@ -1,0 +1,6 @@
+
+Department ID-1/Department Name-Finance department/Phone-22222/Monthly budget allocation-300,000
+Department ID-2/Department Name-Marketing department/Phone-11111/Monthly budget allocation-250,000
+Department ID-3/Department Name-Academic department/Phone-232323/Monthly budget allocation-120,000
+Department ID-4/Department Name-Non-academic department/Phone-55555/Monthly budget allocation-39,000
+Department ID-5/Department Name-HR department/Phone-99999/Monthly budget allocation-250,000

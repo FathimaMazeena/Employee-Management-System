@@ -1,1 +1,2 @@
-# Employee-Management-System-Desktop-Application
+# Employee-Management-System
+This Employee Management System is a Windows application with a graphical user interface, developed for the HR department of the Colombo Institute of Studies to efficiently manage employee records. Created as an assignment for the Object-Oriented Programming module, the project utilizes Java, OOP principles, and text files for data storage. Serving as my introduction to OOP, this project has significantly enhanced my understanding of core concepts and laid a strong foundation for future development.

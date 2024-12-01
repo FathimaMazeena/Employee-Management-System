@@ -1,0 +1,5 @@
+Name-mazeena/EPF No.-14/Username-mazeena/Password-maz12345/Usertype-Admin
+Name-liya/EPF No.-8/Username-liya/Password-liya12345/Usertype-HR Manager
+Name-quaweem/EPF No.-11/Username-quaweem/Password-qw123456/Usertype-HR Assistant
+Name-mazeena2/EPF No.-6/Username-mazeena2/Password-maz12345/Usertype-HR Assistant
+Name-hello/EPF No.-4/Username-hellokitty/Password-hellokitty/Usertype-HR Manager
